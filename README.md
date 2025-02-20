@@ -1,207 +1,207 @@
 MONAD TESTNET IS LIVE. <br>
 Here is a comprehensive guide to get started.
 
-<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> raised $225 in funding
+<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> raised $225 in funding <br>
 <a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> is developing a Layer 1 blockchain that aims to be faster and more scalable than traditional ones like Ethereum. 
 
-<img src="https://pbs.twimg.com/media/GkKVu9QWsAATvqc?format=jpg&name=large" alt="Deskripsi Gambar" width="300">
+<img src="https://pbs.twimg.com/media/GkKVu9QWsAATvqc?format=jpg&name=large" alt="Deskripsi Gambar" width="700">
 
-Tutorial Full Monad Testnet
+Tutorial Full Monad Testnet <br>
 
-Credit List : https://t.me/airdropfind
+Credit List : https://t.me/airdropfind <br>
 
-➡️ Claim Faucet : https://testnet.monad.xyz/
-➖ Explore Ecosystem 
+➡️ Claim Faucet : https://testnet.monad.xyz/ <br>
+➖ Explore Ecosystem <br>
 
-DeFi
-1. AICraft
-➡️ Go to : https://aicraft.fun/
-➖ Join Whitelist 
-➖ Enter Monad Address 
-➖ Vote : https://aicraft.fun/projects/fizen
-➖ Done
+DeFi<br>
+1. AICraft<br>
+➡️ Go to : https://aicraft.fun/<br>
+➖ Join Whitelist <br>
+➖ Enter Monad Address <br>
+➖ Vote : https://aicraft.fun/projects/fizen <br>
+➖ Done <br>
 
-2. Ambient
-➡️ Go to : https://monad.ambient.finance/
-➖ Swap MON > USDC > WETH > etc
-➖ Use Trade Feature 
-➖ Add Liquidity Pool
-➖ Done
+2. Ambient <br>
+➡️ Go to : https://monad.ambient.finance/ <br>
+➖ Swap MON > USDC > WETH > etc <br>
+➖ Use Trade Feature <br>
+➖ Add Liquidity Pool <br>
+➖ Done <br>
 
-3. Apriori
-➡️ Go to : https://stake.apr.io/
-➖ Claim Faucet
-➖ Staking 0.2 MON
-➖ Withdraw 25% After 5 Days
-➖ Done
+3. Apriori <br>
+➡️ Go to : https://stake.apr.io/ <br>
+➖ Claim Faucet <br>
+➖ Staking 0.2 MON <br>
+➖ Withdraw 25% After 5 Days <br>
+➖ Done <br>
 
-4. Bean
-➡️ Go to : https://perp.bean.exchange/#/trade
-➖ Trade Perps 
-➖ Swap MON > USDC > WMON
-➖ Add Liquidity 
-➖ Collect Bean
+4. Bean <br>
+➡️ Go to : https://perp.bean.exchange/#/trade <br>
+➖ Trade Perps <br>
+➖ Swap MON > USDC > WMON <br>
+➖ Add Liquidity <br>
+➖ Collect Bean <br>
 
-5. Bima
-➡️ Go to : https://bima.money/vaults
-➖ Switch Monad Testnet
-➖ Claim Faucet
-➖ Deposit Vault
-➖ Lend > Earn
-➖ Complete Quest
+5. Bima <br>
+➡️ Go to : https://bima.money/vaults <br>
+➖ Switch Monad Testnet <br>
+➖ Claim Faucet <br>
+➖ Deposit Vault <br>
+➖ Lend > Earn <br>
+➖ Complete Quest <br>
 
-6. Blazpay
-➡️ Go to : https://www.defi.blazpay.com/
-➖ Chat with AI
-➖ Swap 
-➖ Add Liquidity 
+6. Blazpay <br>
+➡️ Go to : https://www.defi.blazpay.com/ <br>
+➖ Chat with AI <br>
+➖ Swap <br>
+➖ Add Liquidity <br>
 
-7. Caddy
-➡️ Join Whitelist : https://caddy.finance/
+7. Caddy <br>
+➡️ Join Whitelist : https://caddy.finance/ <br>
 
-8. Curvance
-➡️ Claim All Faucet : https://monad.curvance.com/monad
-➖ Get CVE
-➖ Deposit > Lend > Borrow > Claim Reward 
-➖ Repay
+8. Curvance <br>
+➡️ Claim All Faucet : https://monad.curvance.com/monad <br>
+➖ Get CVE <br>
+➖ Deposit > Lend > Borrow > Claim Reward <br>
+➖ Repay <br>
 
-9. Izumi
-➡️ Go to : https://alpha.izumi.finance/trade/swap
-➖ Swap
-➖ Add Liquidity 
-➖ Farm
-➖ Done
+9. Izumi <br>
+➡️ Go to : https://alpha.izumi.finance/trade/swap <br>
+➖ Swap <br>
+➖ Add Liquidity <br>
+➖ Farm <br>
+➖ Done <br>
 
-10. Kintsu
-➡️ Stake MON : https://kintsu.xyz/staking
+10. Kintsu <br>
+➡️ Stake MON : https://kintsu.xyz/staking <br>
 
-11. Kuru
-➡️ Go to : https://www.kuru.io/markets
-➖ Create Wallet
-➖ Trading Memecoin
-➖ Done
+11. Kuru <br>
+➡️ Go to : https://www.kuru.io/markets <br>
+➖ Create Wallet <br>
+➖ Trading Memecoin <br>
+➖ Done <br>
 
-12. Magma
-➡️ Go to : https://www.magmastaking.xyz/
-➖ Staking MON
-➖ Done
+12. Magma <br>
+➡️ Go to : https://www.magmastaking.xyz/ <br>
+➖ Staking MON <br>
+➖ Done <br>
 
-13. Monorail
-➡️ Go to : https://monorail.xyz/
-➖ Swap MON > Tokens
-➖ Swap Every Week
-➖ Done
+13. Monorail <br>
+➡️ Go to : https://monorail.xyz/ <br>
+➖ Swap MON > Tokens <br>
+➖ Swap Every Week <br>
+➖ Done <br>
 
-14. Multipli
-➡️ Go to : https://dub.sh/multipli1
-➖ Staking  USDT BEP20
-➖ Done
-➡️ Go to : https://dub.sh/multipli-test
-➖ Claim Faucet On Website
-➖ Claim free Faucet 100 USDC & USDT
-➖ Stake Faucet 100 USDC & USDT 
-➖ Done
+14. Multipli <br>
+➡️ Go to : https://dub.sh/multipli1 <br>
+➖ Staking  USDT BEP20 <br>
+➖ Done <br>
+➡️ Go to : https://dub.sh/multipli-test <br>
+➖ Claim Faucet On Website <br>
+➖ Claim free Faucet 100 USDC & USDT <br>
+➖ Stake Faucet 100 USDC & USDT <br>
+➖ Done <br>
 
-15. NadFun
-➡️ Go to : https://testnet.nad.fun/
-➖ Create Memecoin
-➖ Done
+15. NadFun <br>
+➡️ Go to : https://testnet.nad.fun/ <br>
+➖ Create Memecoin <br>
+➖ Done <br>
 
-16. Narwhal
-➡️ Go to : https://testnet.narwhal.finance/
-➖ Trading Futures
-➖ Done
+16. Narwhal <br>
+➡️ Go to : https://testnet.narwhal.finance/ <br>
+➖ Trading Futures <br>
+➖ Done <br>
 
-17. Nostra
-➡️ Go to : https://monad.nostra.finance/lend-borrow
-➖ Lend
-➖ Borrow
-➖ Swap
+17. Nostra <br>
+➡️ Go to : https://monad.nostra.finance/lend-borrow <br>
+➖ Lend <br>
+➖ Borrow <br>
+➖ Swap <br>
 
-18. Opals
-➡️ Go to : https://opals.io/create/project
-➖ Create NFTs
-➖ Done
+18. Opals <br>
+➡️ Go to : https://opals.io/create/project <br>
+➖ Create NFTs <br>
+➖ Done <br>
 
-19. Rubics
-➡️ Go to : https://testnet.rubic.exchange/
-➖ Swap
-➖ Claim Faucet
+19. Rubics <br>
+➡️ Go to : https://testnet.rubic.exchange/ <br>
+➖ Swap <br>
+➖ Claim Faucet <br>
 
-20. Synnax
-➡️ Go to : https://monad.synnax.fi/#/my-positions
-➖ Add Colateral
-➖ Mint syUSD
-➖ Done
+20. Synnax <br>
+➡️ Go to : https://monad.synnax.fi/#/my-positions <br>
+➖ Add Colateral <br>
+➖ Mint syUSD <br>
+➖ Done <br>
 
-21. Fantasy
-➡️ Go to : https://monad.fantasy.top/
-➖ Claim NFT
-➖ Play 
-➖ Done
+21. Fantasy <br>
+➡️ Go to : https://monad.fantasy.top/ <br>
+➖ Claim NFT <br>
+➖ Play  <br>
+➖ Done <br>
 
-NFT Platform / Marketplace 
-1. Blocklive : https://blocklive.io/
-2. Moseiki : https://moseiki.app/
-3. Nfts2me : http://nfts2me.com/app/monad-testnet/
-4. Opensea : https://opensea.io/
+NFT Platform / Marketplace <br>
+1. Blocklive : https://blocklive.io/ <br>
+2. Moseiki : https://moseiki.app/ <br>
+3. Nfts2me : http://nfts2me.com/app/monad-testnet/ <br>
+4. Opensea : https://opensea.io/ <br>
 
-DePIN
-1. SkyTrade 
-➡️ Go to : https://app.sky.trade/
-➖ Claim AI Handle
-➖ Explore
-➖ Done
+DePIN <br>
+1. SkyTrade  <br>
+➡️ Go to : https://app.sky.trade/ <br>
+➖ Claim AI Handle <br>
+➖ Explore <br>
+➖ Done <br>
 
-➡️ Ecosystem : https://monad.xyz/ecosystem
+➡️ Ecosystem : https://monad.xyz/ecosystem <br>
 
-📌 Next Tutorial: Coming Soon
-- Some ecosystems are still in the development stage and have not been launched yet
-- For Update: You can joined on discord, if the project have discord community on website.
-
-
-#############PARTII#############
+📌 Next Tutorial: Coming Soon <br>
+- Some ecosystems are still in the development stage and have not been launched yet <br>
+- For Update: You can joined on discord, if the project have discord community on website. <br>
 
 
-Tutorial Monad Testnet Part II
+#############PARTII############# <br>
 
-Explore NFT Ecosystem
 
-MAGICEDEN
-➡️ Go to : https://magiceden.io/launchpad
-➖️ Swipe Right to MONAD Testnet
-➖️ Mint NFT From Launchpad
-➖️ Sell & Get Monad 
-➖️ Buy Low Cheap NFT On Monad Testnet
-➖️ Make Offers
+Tutorial Monad Testnet Part II <br>
+
+Explore NFT Ecosystem <br>
+
+MAGICEDEN <br>
+➡️ Go to : https://magiceden.io/launchpad <br>
+➖️ Swipe Right to MONAD Testnet <br>
+➖️ Mint NFT From Launchpad <br>
+➖️ Sell & Get Monad <br>
+➖️ Buy Low Cheap NFT On Monad Testnet <br>
+➖️ Make Offers <br>
+➖️ Done <br>
+
+MORKIE <br>
+➡️ Go to : https://morkie.xyz/monad <br>
+➖️ Complete Some Quest <br>
+➖️ Mint Morkie ID NFT <br>
+➖️ Check Every Day / Week, If have free NFT you can mint <br>
 ➖️ Done
 
-MORKIE
-➡️ Go to : https://morkie.xyz/monad
-➖️ Complete Some Quest
-➖️ Mint Morkie ID NFT
-➖️ Check Every Day / Week, If have free NFT you can mint
-➖️ Done
-
-NADS DOMAIN
-➡️ Go to : https://app.nad.domains
-➖️ Mint Domain Web3
-➖️ Done
+NADS DOMAIN <br>
+➡️ Go to : https://app.nad.domains <br>
+➖️ Mint Domain Web3 <br>
+➖️ Done <br>
 
 NFTS2ME
-➡️ Go to : https://nfts2me.com/create/edition/
-➖️ Create NFTs
-➖️ Sell On Market
-➖️ Done
+➡️ Go to : https://nfts2me.com/create/edition/ <br>
+➖️ Create NFTs <br> 
+➖️ Sell On Market <br>
+➖️ Done <br>
 
-MONADVERSE
-➡️ Go to : https://www.monadverse.land/mint
-➖️ Mint NFT
-➖️ Create NFT
-➖️ Done
+MONADVERSE <br>
+➡️ Go to : https://www.monadverse.land/mint <br>
+➖️ Mint NFT <br>
+➖️ Create NFT <br>
+➖️ Done <br>
 
-📌 Part III Soon 
-- Next Thread : Memecoin Platform On Monad
-- Try Defined Trade : https://www.defined.fi/tokens/discover?network=mon-test
-- Buy DAK, YAKI, CHOG
-- Done
+📌 Part III Soon  <br>
+- Next Thread : Memecoin Platform On Monad <br>
+- Try Defined Trade : https://www.defined.fi/tokens/discover?network=mon-test <br>
+- Buy DAK, YAKI, CHOG <br>
+- Done <br>
