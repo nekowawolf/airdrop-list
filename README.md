@@ -9,6 +9,7 @@ Here is a comprehensive guide to get started.
 Tutorial Full Monad Testnet <br>
 
 Credit List : https://t.me/airdropfind <br>
+Community List : https://nekowawolf.xyz/community-list
 
 ➡️ Claim Faucet : https://testnet.monad.xyz/ <br>
 ➖ Explore Ecosystem <br>
@@ -158,10 +159,15 @@ DePIN <br>
 📌 Next Tutorial: Coming Soon <br>
 - Some ecosystems are still in the development stage and have not been launched yet <br>
 - For Update: You can joined on discord, if the project have discord community on website. <br>
-
+<br>
+<br>
+<br>
 
 #############PARTII############# <br>
 
+<br>
+<br>
+<br>
 
 Tutorial Monad Testnet Part II <br>
 
