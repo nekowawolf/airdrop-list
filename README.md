@@ -20,7 +20,7 @@ DeFi<br>
 ➡️ Go to : https://aicraft.fun/<br>
 ➖ Join Whitelist <br>
 ➖ Enter Monad Address <br>
-➖ Vote : https://aicraft.fun/projects/fizen <br>
+➖ Vote : https://aicraft.fun/projects/fizen?ref=3ID6769LAA <br>
 ➖ Done <br>
 
 2. Ambient <br>
