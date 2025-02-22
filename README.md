@@ -225,13 +225,24 @@ MONADVERSE <br>
 <br>
 <br>
 
-New Testnet: Blocklive on Monad Testnet <br> 
+New Testnet Monad
+
+1. Blocklive on Monad Testnet <br> 
 ➡️ Go to : https://blocklive.io/monad-testnet-launch <br>
 ➖ Connect Wallet <br>
 ➖ Buy Ticket : Tester ( Sale Ended ) , Early Tester  <br>
 ➖  Click " Profile " & Click " Settings " & Connect Social Media <br>
 ➖ Click " Cube " & Daily GM <br>
 ➖ Done <br>
+
+2. RareBetSports <br>
+➡️ Go to : https://rarelink.rarebetsports.io/ <br>
+➖ Connect Wallet <br>
+➖ Deposit some $MON, place bets, and withdraw later if needed. <br>
+➖ Minimum bet: 0.1 $MON <br>
+➖ Place 1 Bet on 2-7 players <br>
+
+
 
 
 
