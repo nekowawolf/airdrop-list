@@ -242,7 +242,13 @@ New Testnet Monad
 ➖ Minimum bet: 0.1 $MON <br>
 ➖ Place 1 Bet on 2-7 players <br>
 
-
-
-
+3. Encifher <br>
+➡️ Register: https://monad.encifher.io/ <br>
+➖ Claim Faucet [5 USDC] <br>
+➖ Click Swap [USDC/ENC] <br>
+➖ Click payment [Engineer Payment] <br>
+➖ Feel free to send it to another one of your addresses <br>
+➖ Click yapmonad <br>
+➖ Play yapmonad with ENC tokens and earn points! <br>
+➖ Weekly point updates are based on your game scores <br>
 
