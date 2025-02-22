@@ -227,7 +227,7 @@ MONADVERSE <br>
 
 New Testnet Monad
 
-1. Blocklive on Monad Testnet <br> 
+1. Blocklive <br> 
 ➡️ Go to : https://blocklive.io/monad-testnet-launch <br>
 ➖ Connect Wallet <br>
 ➖ Buy Ticket : Tester ( Sale Ended ) , Early Tester  <br>
