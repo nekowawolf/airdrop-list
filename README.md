@@ -212,3 +212,26 @@ MONADVERSE <br>
 - Try Defined Trade : https://www.defined.fi/tokens/discover?network=mon-test <br>
 - Buy DAK, YAKI, CHOG <br>
 - Done <br>
+
+
+
+<br>
+<br>
+<br>
+
+#############NEWTESTNET############# <br>
+
+<br>
+<br>
+<br>
+
+New Testnet: Blocklive on Monad Testnet <br> 
+➡️ Go to : https://blocklive.io/monad-testnet-launch <br>
+➖ Connect Wallet <br>
+➖ Buy Ticket : Tester ( Sale Ended ) , Early Tester  <br>
+➖  Click " Profile " & Click " Settings " & Connect Social Media <br>
+➖ Click " Cube " & Daily GM <br>
+➖ Done <br>
+
+
+
