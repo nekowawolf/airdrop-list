@@ -142,6 +142,13 @@ DeFi<br>
 ➖ Play  <br>
 ➖ Done <br>
 
+22. Azaar <br>
+➡️ Go to : https://app-monad-testnet.azaar.com/ <br>
+➖ Connect Wallet <br>
+➖ Mint Test Tokens  <br>
+➖ Swap <br>
+➖ Done <br>
+
 NFT Platform / Marketplace <br>
 1. Blocklive : https://blocklive.io/ <br>
 2. Moseiki : https://moseiki.app/ <br>
