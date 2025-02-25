@@ -2,7 +2,7 @@
 Here is a comprehensive guide to get started.
 
 <a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> raised $225 in funding,
-<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> is developing a Layer 1 blockchain that aims <br> 
+<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> is developing a Layer 1 blockchain that aims
 to be faster and more scalable than traditional ones like Ethereum. 
 
 <img src="https://pbs.twimg.com/media/GkKVu9QWsAATvqc?format=jpg&name=large" alt="Deskripsi Gambar" width="700">
