@@ -20,7 +20,7 @@ Community List : https://nekowawolf.xyz/community-list
 <br>
 <br>
 
-#############DEFI############# <br>
+#############DEFI################# <br>
 
 <br>
 
@@ -149,7 +149,7 @@ Community List : https://nekowawolf.xyz/community-list
 <br>
 <br>
 
-#############DEX############# <br>
+#############DEX################# <br>
 
 <br>
 <br>
@@ -166,7 +166,7 @@ Community List : https://nekowawolf.xyz/community-list
 <br>
 <br>
 
-#############NFT############# <br>
+#############NFT################# <br>
 
 <br>
 <br>
@@ -215,7 +215,7 @@ NFT Platform / Marketplace <br>
 <br>
 <br>
 
-#############NEWTESTNET############# <br>
+#############NEWTESTNET########## <br>
 
 <br>
 <br>
