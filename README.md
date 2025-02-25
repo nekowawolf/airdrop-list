@@ -1,4 +1,4 @@
-MONAD TESTNET IS LIVE. <br>
+# MONAD TESTNET IS LIVE. <br>
 Here is a comprehensive guide to get started.
 
 <a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> raised $225 in funding <br>
