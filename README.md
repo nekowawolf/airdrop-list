@@ -12,8 +12,9 @@ Tutorial Full Monad Testnet <br>
 Credit List : https://t.me/airdropfind <br>
 Community List : https://nekowawolf.xyz/community-list
 
-➡️ Claim Faucet : https://testnet.monad.xyz/ <br>
+➡️ Claim Faucet : https://testnet.monad.xyz <br>
 ➡️ Ecosystem : https://monad.xyz/ecosystem <br>
+➡️ Explorer : https://testnet.monadexplorer.com <br>
 
 
 <br>
@@ -22,7 +23,6 @@ Community List : https://nekowawolf.xyz/community-list
 
 #############DEFI############# <br>
 
-<br>
 <br>
 <br>
 
@@ -168,7 +168,6 @@ Community List : https://nekowawolf.xyz/community-list
 
 <br>
 <br>
-<br>
 
 1. Pancakeswap <br>
 ➡️ Go to : https://pancakeswap.finance/?chain=monadTestnet <br>
@@ -190,7 +189,6 @@ Community List : https://nekowawolf.xyz/community-list
 
 #############NFT############# <br>
 
-<br>
 <br>
 <br>
 
@@ -240,7 +238,6 @@ NFT Platform / Marketplace <br>
 
 #############NEWTESTNET############# <br>
 
-<br>
 <br>
 <br>
 
