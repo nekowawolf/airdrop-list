@@ -167,11 +167,38 @@ DePIN <br>
 📌 Next Tutorial: Coming Soon <br>
 - Some ecosystems are still in the development stage and have not been launched yet <br>
 - For Update: You can joined on discord, if the project have discord community on website. <br>
+
+
+
 <br>
 <br>
 <br>
 
-#############PARTII############# <br>
+#############DEX############# <br>
+
+<br>
+<br>
+<br>
+
+1. Pancakeswap <br>
+➡️ Go to : https://pancakeswap.finance/?chain=monadTestnet <br>
+➖ Connect Wallet <br>
+➖ Select Monad Tesnet <br>
+➖ Swap MON to Any Token <br>
+➖ Done <br>
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+#############NFT############# <br>
 
 <br>
 <br>
