@@ -259,7 +259,7 @@ NFT Platform / Marketplace <br>
 ➖ Done <br>
 
 6. Fantasy <br>
-➡️ Go to : https://monad.fantasy.top/?ref=WMC44QV4 <br> 
+➡️ Go to : https://monad.fantasy.top?ref=IOQFM37H <br> 
 ➖ Claim NFT <br>
 ➖ Play  <br>
 ➖ Done <br>
