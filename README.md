@@ -14,8 +14,19 @@ Community List : https://nekowawolf.xyz/community-list
 
 ➡️ Claim Faucet : https://testnet.monad.xyz/ <br>
 ➖ Explore Ecosystem <br>
+➡️ Ecosystem : https://monad.xyz/ecosystem <br>
 
-DeFi<br>
+
+<br>
+<br>
+<br>
+
+#############DEFI############# <br>
+
+<br>
+<br>
+<br>
+
 1. AICraft<br>
 ➡️ Go to : https://aicraft.fun/<br>
 ➖ Join Whitelist <br>
@@ -149,26 +160,6 @@ DeFi<br>
 ➖ Swap <br>
 ➖ Done <br>
 
-NFT Platform / Marketplace <br>
-1. Blocklive : https://blocklive.io/ <br>
-2. Moseiki : https://moseiki.app/ <br>
-3. Nfts2me : http://nfts2me.com/app/monad-testnet/ <br>
-4. Opensea : https://opensea.io/ <br>
-
-DePIN <br>
-1. SkyTrade  <br>
-➡️ Go to : https://app.sky.trade/ <br>
-➖ Claim AI Handle <br>
-➖ Explore <br>
-➖ Done <br>
-
-➡️ Ecosystem : https://monad.xyz/ecosystem <br>
-
-📌 Next Tutorial: Coming Soon <br>
-- Some ecosystems are still in the development stage and have not been launched yet <br>
-- For Update: You can joined on discord, if the project have discord community on website. <br>
-
-
 
 <br>
 <br>
@@ -204,10 +195,6 @@ DePIN <br>
 <br>
 <br>
 
-Tutorial Monad Testnet Part II <br>
-
-Explore NFT Ecosystem <br>
-
 MAGICEDEN <br>
 ➡️ Go to : https://magiceden.io/launchpad <br>
 ➖️ Swipe Right to MONAD Testnet <br>
@@ -241,12 +228,11 @@ MONADVERSE <br>
 ➖️ Create NFT <br>
 ➖️ Done <br>
 
-📌 Part III Soon  <br>
-- Next Thread : Memecoin Platform On Monad <br>
-- Try Defined Trade : https://www.defined.fi/tokens/discover?network=mon-test <br>
-- Buy DAK, YAKI, CHOG <br>
-- Done <br>
-
+NFT Platform / Marketplace <br>
+1. Blocklive : https://blocklive.io/ <br>
+2. Moseiki : https://moseiki.app/ <br>
+3. Nfts2me : http://nfts2me.com/app/monad-testnet/ <br>
+4. Opensea : https://opensea.io/ <br>
 
 
 <br>
@@ -258,8 +244,6 @@ MONADVERSE <br>
 <br>
 <br>
 <br>
-
-New Testnet Monad
 
 1. Blocklive <br> 
 ➡️ Go to : https://blocklive.io/monad-testnet-launch <br>
@@ -285,4 +269,10 @@ New Testnet Monad
 ➖ Click yapmonad <br>
 ➖ Play yapmonad with ENC tokens and earn points! <br>
 ➖ Weekly point updates are based on your game scores <br>
+
+4. SkyTrade  <br>
+➡️ Go to : https://app.sky.trade/ <br>
+➖ Claim AI Handle <br>
+➖ Explore <br>
+➖ Done <br>
 
