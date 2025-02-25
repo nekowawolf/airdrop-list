@@ -13,7 +13,6 @@ Credit List : https://t.me/airdropfind <br>
 Community List : https://nekowawolf.xyz/community-list
 
 ➡️ Claim Faucet : https://testnet.monad.xyz/ <br>
-➖ Explore Ecosystem <br>
 ➡️ Ecosystem : https://monad.xyz/ecosystem <br>
 
 
