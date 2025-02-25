@@ -1,9 +1,9 @@
 # MONAD TESTNET IS LIVE. <br>
 Here is a comprehensive guide to get started.
 
-<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> raised $225 in funding <br>
-<br>
-<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> is developing a Layer 1 blockchain that aims to be faster and more scalable than traditional ones like Ethereum. 
+<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> raised $225 in funding,
+<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> is developing a Layer 1 blockchain that aims <br> 
+to be faster and more scalable than traditional ones like Ethereum. 
 
 <img src="https://pbs.twimg.com/media/GkKVu9QWsAATvqc?format=jpg&name=large" alt="Deskripsi Gambar" width="700">
 
@@ -171,7 +171,7 @@ Community List : https://nekowawolf.xyz/community-list
 <br>
 <br>
 
-MAGICEDEN <br>
+1. MAGICEDEN <br>
 ➡️ Go to : https://magiceden.io/launchpad <br>
 ➖️ Swipe Right to MONAD Testnet <br>
 ➖️ Mint NFT From Launchpad <br>
@@ -180,25 +180,25 @@ MAGICEDEN <br>
 ➖️ Make Offers <br>
 ➖️ Done <br>
 
-MORKIE <br>
+2. MORKIE <br>
 ➡️ Go to : https://morkie.xyz/monad <br>
 ➖️ Complete Some Quest <br>
 ➖️ Mint Morkie ID NFT <br>
 ➖️ Check Every Day / Week, If have free NFT you can mint <br>
 ➖️ Done
 
-NADS DOMAIN <br>
+3. NADS DOMAIN <br>
 ➡️ Go to : https://app.nad.domains <br>
 ➖️ Mint Domain Web3 <br>
 ➖️ Done <br>
 
-NFTS2ME
+4. NFTS2ME
 ➡️ Go to : https://nfts2me.com/create/edition/ <br>
 ➖️ Create NFTs <br> 
 ➖️ Sell On Market <br>
 ➖️ Done <br>
 
-MONADVERSE <br>
+5. MONADVERSE <br>
 ➡️ Go to : https://www.monadverse.land/mint <br>
 ➖️ Mint NFT <br>
 ➖️ Create NFT <br>
