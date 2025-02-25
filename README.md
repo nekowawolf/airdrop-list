@@ -23,7 +23,6 @@ Community List : https://nekowawolf.xyz/community-list
 #############DEFI############# <br>
 
 <br>
-<br>
 
 
 1. Ambient <br>
