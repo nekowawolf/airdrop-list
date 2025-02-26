@@ -23,7 +23,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 <br>
 <br>
 
-#############DEFI################# <br>
+#############DEFI/DEX################# <br>
 
 <br>
 
@@ -148,23 +148,12 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Swap <br>
 ➖ Done <br>
 
-
-<br>
-<br>
-
-#############DEX################# <br>
-
-<br>
-<br>
-
-1. Pancakeswap <br>
+21. Pancakeswap <br>
 ➡️ Go to : https://pancakeswap.finance/?chain=monadTestnet <br>
 ➖ Connect Wallet <br>
 ➖ Select Monad Tesnet <br>
 ➖ Swap MON to Any Token <br>
 ➖ Done <br>
-
-
 
 <br>
 <br>
