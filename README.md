@@ -12,7 +12,7 @@ Tutorial Full Monad Testnet <br>
 Credit List : https://t.me/airdropfind <br>
 Community List : https://nekowawolf.xyz/community-list
 
-Full List: https://katb.in/haremapeciw <br>
+Full List : https://katb.in/haremapeciw <br>
 Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</a> <br>
 
 ➡️ Claim Faucet : https://testnet.monad.xyz <br>
