@@ -295,3 +295,10 @@ NFT Platform / Marketplace <br>
 ➖ Play  <br>
 ➖ Done <br>
 
+7. Pingu Futures <br>
+➡️ Go to : https://pingu.exchange/trade <br> 
+➖ Entry With Monad Testnet <br>
+➖ Take Profit  <br>
+➖ Done <br>
+
+
