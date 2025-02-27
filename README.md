@@ -66,7 +66,6 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 
 <br>
 
-
 1. Ambient <br>
 ➡️ Go to : https://monad.ambient.finance/ <br>
 ➖ Swap MON > USDC > WETH > etc <br>
@@ -200,7 +199,6 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 <img src="https://nekowawolf.github.io/delete-later/assets/img/NFT.png" alt="" width="400"> <br>
 
 <br>
-<br>
 
 1. MAGICEDEN <br>
 ➡️ Go to : https://magiceden.io/launchpad <br>
@@ -248,7 +246,6 @@ NFT Platform / Marketplace <br>
 
 <img src="https://nekowawolf.github.io/delete-later/assets/img/Testnet.png" alt="" width="400"> <br>
 
-<br>
 <br>
 
 1. AICraft<br>
