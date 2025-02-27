@@ -5,7 +5,7 @@ Here is a comprehensive guide to get started.
 <a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> is developing a Layer 1 blockchain that aims
 to be faster and more scalable than traditional ones like Ethereum. 
 
-<img src="https://pbs.twimg.com/media/GkKVu9QWsAATvqc?format=jpg&name=large" alt="Deskripsi Gambar" width="700">
+<img src="https://pbs.twimg.com/media/GkKVu9QWsAATvqc?format=jpg&name=large" alt="" width="700">
 
 Tutorial Full Monad Testnet <br>
 
@@ -23,7 +23,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 <br>
 <br>
 
-#############DEFI/DEX################# <br>
+<img src="https://nekowawolf.github.io/delete-later/assets/img/Dex.png" alt="" width="400"> <br>
 
 <br>
 
@@ -158,7 +158,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 <br>
 <br>
 
-#############NFT################# <br>
+<img src="https://nekowawolf.github.io/delete-later/assets/img/NFT.png" alt="" width="400"> <br>
 
 <br>
 <br>
@@ -207,7 +207,7 @@ NFT Platform / Marketplace <br>
 <br>
 <br>
 
-#############NEWTESTNET########## <br>
+<img src="https://nekowawolf.github.io/delete-later/assets/img/Testnet.png" alt="" width="400"> <br>
 
 <br>
 <br>
