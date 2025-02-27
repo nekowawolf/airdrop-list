@@ -23,6 +23,45 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 <br>
 <br>
 
+<img src="https://nekowawolf.github.io/delete-later/assets/img/Faucet.png" alt="" width="400"> <br>
+
+<br>
+
+1. Monad <br>
+➡️ Go to : http://testnet.monad.xyz <br>
+
+2. Mozi <br>
+➡️ Go to : https://app.mozi.finance <br>
+
+3. Gas Zip <br>
+➡️ Go to : https://gas.zip/faucet/monad <br>
+
+4. Thirdweb <br>
+➡️ Go to : http://thirdweb.com/monad-testnet <br>
+
+5. Stake Apr <br>
+➡️ Go to : https://stake.apr.io/faucet <br>
+
+6. Morkie <br>
+➡️ Go to : https://faucet.morkie.xyz/monad <br>
+
+7. OKX <br>
+➡️ Go to : https://www.okx.com/id/web3/faucet/monad?id=66 <br>
+
+8. Pump Btc <br>
+➡️ Go to : https://discord.gg/pumpbtc <br>
+
+9. Bima <br>
+➡️ Go to : https://bima.money/faucet <br>
+
+10. Owlto <br>
+➡️ Go to : https://owlto.finance/Faucet/Monad <br>
+
+
+
+<br>
+<br>
+
 <img src="https://nekowawolf.github.io/delete-later/assets/img/Dex.png" alt="" width="400"> <br>
 
 <br>
