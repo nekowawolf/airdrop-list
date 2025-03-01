@@ -193,6 +193,16 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Swap MON to Any Token <br>
 ➖ Done <br>
 
+22. Uniswap <br>
+➡️ Go to : https://app.uniswap.org/swap <br>
+➖ Connect Wallet <br>
+➖ Toggle testnet mode  <br>
+➖ Select Monad Tesnet <br>
+➖ Swap $MON for $USDC or any token <br>
+➖ Add Liquidity <br>
+➖ Done <br>
+
+
 <br>
 <br>
 
