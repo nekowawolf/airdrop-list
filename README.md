@@ -202,6 +202,13 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity <br>
 ➖ Done <br>
 
+23. Uniswap <br>
+➡️ Go to : https://app.monadex.exchange <br>
+➖ Connect Wallet <br>
+➖ Swap <br>
+➖ Add Liquidity Pool <br>
+➖ Done <br>
+
 
 <br>
 <br>
