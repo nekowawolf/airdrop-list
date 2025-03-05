@@ -209,6 +209,15 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
+24. FastLane <br>
+➡️ Go to : https://www.shmonad.xyz/ <br>
+➖ Connect Wallet <br>
+➖ Stake MON Token <br>
+➖ Click Commit <br>
+➖ Enter amount to commit <br>
+➖ Done <br>
+
+
 
 <br>
 <br>
