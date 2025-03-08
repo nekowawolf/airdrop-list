@@ -266,6 +266,13 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖️ Create NFT <br>
 ➖️ Done <br>
 
+6. MAGICEDEN (Create NFT) <br>
+➡️ Go to : https://magiceden.io/mint-terminal/create <br>
+➖️ Select Monad testnet <br>
+➖️ Fill all info <br>
+➖️ Publish <br>
+➖️ Done <br>
+
 NFT Platform / Marketplace <br>
 1. Blocklive : https://blocklive.io/ <br>
 2. Moseiki : https://moseiki.app/ <br>
