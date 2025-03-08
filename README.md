@@ -218,6 +218,12 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Enter amount to commit <br>
 ➖ Done <br>
 
+25. Octo Swap <br> 
+➡️ Go to : https://octo.exchange/ <br>
+➖ Connect Wallet <br>
+➖ Swap MON to Test 2 or Test 1 or any other tokens <br>
+➖ Add Liquidity <br>
+➖ Done <br>
 
 
 <br>
