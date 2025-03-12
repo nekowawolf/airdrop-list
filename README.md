@@ -338,4 +338,9 @@ NFT Platform / Marketplace <br>
 ➖ Take Profit  <br>
 ➖ Done <br>
 
+8. Break Monad <br>
+➡️ Go to : https://testnet.monad.xyz/break-monad <br>
+➖ Connect Wallet <br>
+➖ Scroll down to the list of games <br>
+➖ Start playing <br>
 
