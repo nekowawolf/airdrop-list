@@ -225,6 +225,15 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity <br>
 ➖ Done <br>
 
+26. Castora <br> 
+➡️ Go to : https://castora.xyz <br>
+➖ Connect Wallet <br>
+➖ Click "Predict Now" <br>
+➖ Enter your price prediction for the asset <br>
+➖ Click "Make prediction" <br>
+➖ Click "Join Pool" <br>
+➖ Done <br>
+
 
 <br>
 <br>
