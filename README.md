@@ -58,6 +58,9 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 10. Owlto <br>
 ➡️ Go to : https://owlto.finance/Faucet/Monad <br>
 
+11. Madness <br>
+➡️ Go to : https://madness.finance/faucet <br>
+
 
 
 <br>
@@ -232,6 +235,14 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Enter your price prediction for the asset <br>
 ➖ Click "Make prediction" <br>
 ➖ Click "Join Pool" <br>
+➖ Done <br>
+
+27. Madness <br> 
+➡️ Go to : https://madness.finance/swap <br>
+➖ Connect Wallet <br>
+➖ Swap MON <br>
+➖ Add Liquidity Pool <br>
+➖ Open the task menu and complete the task <br>
 ➖ Done <br>
 
 
