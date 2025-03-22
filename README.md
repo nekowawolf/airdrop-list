@@ -364,3 +364,10 @@ NFT Platform / Marketplace <br>
 ➖ Scroll down to the list of games <br>
 ➖ Start playing <br>
 
+9. Fukunad <br>
+➡️ Go to : https://testnet.fukunad.xyz?ref=fA9Ff5-m8kgtg69 <br>
+➖ Connect Wallet <br>
+➖ Open the raffle menu <br>
+➖ Deposit MON <br>
+➖ Done <br>
+
