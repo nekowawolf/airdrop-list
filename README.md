@@ -245,6 +245,16 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Open the task menu and complete the task <br>
 ➖ Done <br>
 
+28. Bebop <br> 
+➡️ Go to : https://bebop.xyz/?network=ethereum <br>
+➖ Connect Wallet <br>
+➖ Carry out some swaps (you can do MON to Weth cos of LP) <br>
+➖ Approve transactions <br>
+➖ Confirm transactions in wallet <br>
+➖ You can repeat this a few times  <br>
+➖ Done <br>
+
+
 
 <br>
 <br>
