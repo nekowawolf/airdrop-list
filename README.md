@@ -281,6 +281,16 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Swap MON <br>
 ➖ Done <br>
 
+33. Narwhal <br> 
+➡️ Go to : https://testnet.narwhal.finance <br>
+➖ Connect Wallet <br>
+➖ Get some USDT or aprMON for trade <br>
+➖ Stake MON for get aprMON https://stake.apr.io/ <br>
+➖ Trade long/ short positions with <br>
+➖ Stake MON
+➖ Play Carnival
+➖ Done <br>
+
 <br>
 <br>
 
