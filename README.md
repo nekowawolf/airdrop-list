@@ -381,3 +381,10 @@ NFT Platform / Marketplace <br>
 ➖ Deposit MON <br>
 ➖ Done <br>
 
+10. Monadscores <br>
+➡️ Go to : https://monadscore.xyz/signup/r/08gSR3vm <br>
+➖ Connect Wallet <br>
+➖ Click on run node and sign the transaction <br>
+➖ Navigate to tasks and connect x, then complete all tasks <br>
+➖ Done <br>
+
