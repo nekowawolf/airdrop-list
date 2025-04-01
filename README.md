@@ -264,9 +264,15 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 30. Nitro Finance <br> 
 ➡️ Go to : https://testapp.nitrofinance.xyz/ <br>
 ➖ Connect Wallet <br>
-➖ click ‘Get NIT’ to claim some test tokens <br>
+➖ Click ‘Get NIT’ to claim some test tokens <br>
 ➖ Trade MON <br>
 ➖ Add Liquidity Pool <br>
+➖ Done <br>
+
+31. Mace Swap <br> 
+➡️ Go to : https://testnet.swaps.mace.ag/ <br>
+➖ Connect Wallet <br>
+➖ Swap $MON/WMON or any other assets <br>
 ➖ Done <br>
 
 <br>
