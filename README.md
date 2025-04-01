@@ -275,6 +275,12 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Swap $MON/WMON or any other assets <br>
 ➖ Done <br>
 
+32. Dirol Network <br> 
+➡️ Go to : https://dex.dirol.network/swap <br>
+➖ Connect Wallet <br>
+➖ Swap MON <br>
+➖ Done <br>
+
 <br>
 <br>
 
