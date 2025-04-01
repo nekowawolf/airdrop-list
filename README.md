@@ -254,7 +254,12 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ You can repeat this a few times  <br>
 ➖ Done <br>
 
-
+29. Mondafund <br> 
+➡️ Go to : https://app.monda.fund/swap <br>
+➖ Connect Wallet <br>
+➖ Swap MON <br>
+➖ Add Liquidity Pool <br>
+➖ Done <br>
 
 <br>
 <br>
