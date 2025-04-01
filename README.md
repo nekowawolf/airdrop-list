@@ -287,8 +287,8 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Get some USDT or aprMON for trade <br>
 ➖ Stake MON for get aprMON https://stake.apr.io/ <br>
 ➖ Trade long/ short positions with <br>
-➖ Stake MON
-➖ Play Carnival
+➖ Stake MON <br>
+➖ Play Carnival <br>
 ➖ Done <br>
 
 <br>
