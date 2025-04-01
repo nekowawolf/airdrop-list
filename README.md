@@ -261,6 +261,14 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
+30. Nitro Finance <br> 
+➡️ Go to : https://testapp.nitrofinance.xyz/ <br>
+➖ Connect Wallet <br>
+➖ click ‘Get NIT’ to claim some test tokens <br>
+➖ Trade MON <br>
+➖ Add Liquidity Pool <br>
+➖ Done <br>
+
 <br>
 <br>
 
