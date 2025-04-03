@@ -423,3 +423,13 @@ NFT Platform / Marketplace <br>
 ➖ Navigate to tasks and connect x, then complete all tasks <br>
 ➖ Done <br>
 
+11. Zona <br>
+➡️ Go to : https://app.zona.finance/trade <br>
+➖ Connect Wallet <br>
+➖ BetFI Real Estate market  <br>
+➖ Choose duration 1h | 2h | 4h | 6h | 8h | 24h <br>
+➖ Pick a direction above or below <br>
+➖ Enter bet amount (Max 0.5 $MON per bet) <br>
+➖ Confirm your prediction  <br>
+➖ Done <br>
+
