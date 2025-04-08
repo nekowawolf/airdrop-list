@@ -249,7 +249,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Done <br>
 
 28. Bebop <br> 
-➡️ Go to : https://bebop.xyz/?network=ethereum <br>
+➡️ Go to : https://bebop.xyz/trade?network=monad <br>
 ➖ Connect Wallet <br>
 ➖ Carry out some swaps (you can do MON to Weth cos of LP) <br>
 ➖ Approve transactions <br>
