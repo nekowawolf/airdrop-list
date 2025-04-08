@@ -291,6 +291,14 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Play Carnival <br>
 ➖ Done <br>
 
+34. Crystal <br> 
+➡️ Go to : https://app.crystal.exchange/swap?ref=gmonad <br>
+➖ Connect Wallet <br>
+➖ Trade on basic or advanced view <br>
+➖ Swap MON <br>
+➖ Done <br>
+
+
 <br>
 <br>
 
