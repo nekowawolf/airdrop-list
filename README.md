@@ -298,6 +298,15 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Swap MON <br>
 ➖ Done <br>
 
+35. Likwid <br> 
+➡️ Go to : https://likwid.fi/trade <br>
+➖ Connect Wallet <br>
+➖ Swap MON <br>
+➖ Borrow <br>
+➖ Margin trade <br>
+➖ Add Liquidity Pool <br>
+➖ Done <br>
+
 
 <br>
 <br>
