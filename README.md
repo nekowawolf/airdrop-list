@@ -61,6 +61,9 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 11. Madness <br>
 ➡️ Go to : https://madness.finance/faucet <br>
 
+12. Fau.gg <br>
+➡️ Go to : https://www.fau.gg/faucet <br>
+
 
 
 <br>
