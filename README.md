@@ -1,9 +1,20 @@
 # MONAD TESTNET IS LIVE. <br>
 Here is a comprehensive guide to get started.
 
-<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> raised $225 in funding,
-<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> is developing a Layer 1 blockchain that aims
-to be faster and more scalable than traditional ones like Ethereum. 
+## Monad Fundraise <br>
+
+<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> 
+Monad Lab has successfully raised $225 million in a funding round spearheaded by Paradigm.<br>
+
+The investment round also attracted contributions from distinguished firms such as Electric Capital, Coinbase Ventures, Castle Island Ventures, GSR Ventures, and Greenoaks. Additionally, prominent angel investors like Inversebrah, Ansem, Hsaka, punk6529, Eric Wall, Rune Christensen, Bryan Pellegrino, Luca Netz, and Mert Mumtaz participated,<br>
+
+## About Monad
+
+<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> is building an Ethereum virtual machine (EVM)-compatible Layer 1 blockchain designed to improve the overall Ethereum ecosystem. <br>
+
+Monad enables parallel execution for EVM transactions that don’t have common dependencies. That is, transactions and blocks are still linearly ordered; Monad simply identifies transactions within that linear ordering that can be executed in parallel without disruption to the outcome. This allows Monad to process transactions more efficiently without disrupting app developers. Apps originally written for Ethereum and deployed on Monad will still work the same way. <br>
+
+Transactions without common dependencies are scheduled in parallel on separate cores. Transactions with common dependencies are scheduled back to back. Consecutive scheduling also reduces I/O overhead, a significant component of latency in the existing EVM implementation.
 
 <img src="https://pbs.twimg.com/media/GkKVu9QWsAATvqc?format=jpg&name=large" alt="" width="700">
 
