@@ -339,7 +339,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖️ Mint Domain Web3 <br>
 ➖️ Done <br>
 
-4. NFTS2ME
+4. NFTS2ME <br>
 ➡️ Go to : https://nfts2me.com/create/edition/ <br>
 ➖️ Create NFTs <br> 
 ➖️ Sell On Market <br>
