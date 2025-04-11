@@ -171,8 +171,13 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Done <br>
 
 15. Narwhal <br>
-➡️ Go to : https://testnet.narwhal.finance/ <br>
-➖ Trading Futures <br>
+➡️ Go to : https://testnet.narwhal.finance <br>
+➖ Connect Wallet <br>
+➖ Get some USDT or aprMON for trade <br>
+➖ Stake MON for get aprMON https://stake.apr.io/ <br>
+➖ Trade long/ short positions with <br>
+➖ Stake MON <br>
+➖ Play Carnival <br>
 ➖ Done <br>
 
 16. Nostra <br>
@@ -295,24 +300,14 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Swap MON <br>
 ➖ Done <br>
 
-33. Narwhal <br> 
-➡️ Go to : https://testnet.narwhal.finance <br>
-➖ Connect Wallet <br>
-➖ Get some USDT or aprMON for trade <br>
-➖ Stake MON for get aprMON https://stake.apr.io/ <br>
-➖ Trade long/ short positions with <br>
-➖ Stake MON <br>
-➖ Play Carnival <br>
-➖ Done <br>
-
-34. Crystal <br> 
+33. Crystal <br> 
 ➡️ Go to : https://app.crystal.exchange/swap?ref=gmonad <br>
 ➖ Connect Wallet <br>
 ➖ Trade on basic or advanced view <br>
 ➖ Swap MON <br>
 ➖ Done <br>
 
-35. Likwid <br> 
+34. Likwid <br> 
 ➡️ Go to : https://likwid.fi/trade <br>
 ➖ Connect Wallet <br>
 ➖ Swap MON <br>
