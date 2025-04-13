@@ -316,6 +316,15 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
+35. zkSwap <br> 
+➡️ Go to : https://www.zkswap.finance/swap?chain=monadTestnet <br>
+➖ Connect Wallet <br>
+➖ Navigate to Faucet and claim MOON faucet <br>
+➖ Deploy Contract <br>
+➖ Swap MON <br>
+➖ Add Liquidity Pool <br>
+➖ Done <br>
+
 
 <br>
 <br>
