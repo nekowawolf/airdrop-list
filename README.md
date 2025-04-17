@@ -42,37 +42,37 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 1. Monad <a href="https://x.com/monad_xyz" target="_blank">(@monad_xyz)</a> <br>
 ➡️ Go to : http://testnet.monad.xyz <br>
 
-2. Mozi <br>
+2. Mozi  <a href="https://x.com/mozifinance" target="_blank">(@mozifinance)</a> <br>
 ➡️ Go to : https://app.mozi.finance <br>
 
-3. Gas Zip <br>
+3. Gas Zip <a href="https://x.com/gasdotzip" target="_blank">(@gasdotzip)</a> <br> 
 ➡️ Go to : https://gas.zip/faucet/monad <br>
 
-4. Thirdweb <br>
+4. Thirdweb <a href="https://x.com/thirdweb" target="_blank">(@thirdweb)</a> <br>
 ➡️ Go to : http://thirdweb.com/monad-testnet <br>
 
-5. Stake Apr <br>
+5. aPriori <a href="https://x.com/apr_labs" target="_blank">(@apr_labs)</a> <br>
 ➡️ Go to : https://stake.apr.io/faucet <br>
 
-6. Morkie <br>
+6. Morkie <a href="https://x.com/_morkie" target="_blank">(@_morkie)</a> <br>
 ➡️ Go to : https://faucet.morkie.xyz/monad <br>
 
-7. OKX <br>
+7. OKX <a href="https://x.com/okx" target="_blank">(@okx)</a> <br>
 ➡️ Go to : https://www.okx.com/id/web3/faucet/monad?id=66 <br>
 
-8. Pump Btc <br>
+8. Pump Btc <a href="https://x.com/Pumpbtcxyz" target="_blank">(@Pumpbtcxyz)</a> <br>
 ➡️ Go to : https://discord.gg/pumpbtc <br>
 
-9. Bima <br>
+9. Bima <a href="https://x.com/BimaBTC" target="_blank">(@BimaBTC)</a> <br>
 ➡️ Go to : https://bima.money/faucet <br>
 
-10. Owlto <br>
+10. Owlto <a href="https://x.com/Owlto_Finance" target="_blank">(@Owlto_Finance)</a> <br>
 ➡️ Go to : https://owlto.finance/Faucet/Monad <br>
 
-11. Madness <br>
+11. Madness <a href="https://x.com/MadnessExchange" target="_blank">(@MadnessExchange)</a> <br>
 ➡️ Go to : https://madness.finance/faucet <br>
 
-12. Fau.gg <br>
+12. Fau.gg <a href="https://x.com/faudot_gg" target="_blank">(@faudot_gg)</a> <br>
 ➡️ Go to : https://www.fau.gg/faucet <br>
 
 
