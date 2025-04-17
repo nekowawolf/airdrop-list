@@ -331,7 +331,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Claim faucets (WBTC.a, WETH.a, USDT.a, USDC.a) <br>
 ➖ Swap MON <br>
 ➖ Add Liquidity Pool <br>
-➖ Mint NFT <br>
+➖ Mint NFT (at least 20x swap) <br>
 ➖ Done <br>
 
 
