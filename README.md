@@ -39,7 +39,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 
 <br>
 
-1. Monad <a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> <br>
+1. Monad <a href="https://x.com/monad_xyz" target="_blank">(@monad_xyz)</a> <br>
 ➡️ Go to : http://testnet.monad.xyz <br>
 
 2. Mozi <br>
