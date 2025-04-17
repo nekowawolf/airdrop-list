@@ -325,6 +325,16 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
+36. Atlantis <br> 
+➡️ Go to : https://app.atlantisdex.xyz/ <br>
+➖ Connect Wallet <br>
+➖ Claim faucets (WBTC.a, WETH.a, USDT.a, USDC.a) <br>
+➖ Swap MON <br>
+➖ Add Liquidity Pool <br>
+➖ Mint NFT <br>
+➖ Done <br>
+
+
 
 <br>
 <br>
