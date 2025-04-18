@@ -334,7 +334,12 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Mint NFT (at least 20x swap) <br>
 ➖ Done <br>
 
-
+37. ApeBond <br> 
+➡️ Go to : https://www.ape.bond/swap <br>
+➖ Connect Wallet <br>
+➖ Select the monad network <br>
+➖ Swap MON <br>
+➖ Done <br>
 
 <br>
 <br>
