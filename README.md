@@ -348,7 +348,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 
 <br>
 
-1. MAGICEDEN <br>
+1. MAGICEDEN <a href="https://x.com/MagicEden" target="_blank">(@MagicEden)</a> <br>
 ➡️ Go to : https://magiceden.io/launchpad <br>
 ➖️ Swipe Right to MONAD Testnet <br>
 ➖️ Mint NFT From Launchpad <br>
@@ -357,31 +357,31 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖️ Make Offers <br>
 ➖️ Done <br>
 
-2. MORKIE <br>
+2. MORKIE <a href="https://x.com/_morkie" target="_blank">(@_morkie)</a> <br>
 ➡️ Go to : https://morkie.xyz/monad <br>
 ➖️ Complete Some Quest <br>
 ➖️ Mint Morkie ID NFT <br>
 ➖️ Check Every Day / Week, If have free NFT you can mint <br>
 ➖️ Done
 
-3. NADS DOMAIN <br>
+3. NADS DOMAIN <a href="https://x.com/NadDomains" target="_blank">(@NadDomains)</a> <br>
 ➡️ Go to : https://app.nad.domains <br>
 ➖️ Mint Domain Web3 <br>
 ➖️ Done <br>
 
-4. NFTS2ME <br>
+4. NFTS2ME <a href="https://x.com/NFTs2Me" target="_blank">(@NFTs2Me)</a> <br>
 ➡️ Go to : https://nfts2me.com/create/edition/ <br>
 ➖️ Create NFTs <br> 
 ➖️ Sell On Market <br>
 ➖️ Done <br>
 
-5. MONADVERSE <br>
+5. MONADVERSE <a href="https://x.com/monadverse" target="_blank">(@monadverse)</a> <br>
 ➡️ Go to : https://www.monadverse.land/mint <br>
 ➖️ Mint NFT <br>
 ➖️ Create NFT <br>
 ➖️ Done <br>
 
-6. MAGICEDEN (Create NFT) <br>
+6. MAGICEDEN <a href="https://x.com/MagicEden" target="_blank">(@MagicEden)</a> (Create NFT) <br>
 ➡️ Go to : https://magiceden.io/mint-terminal/create <br>
 ➖️ Select Monad testnet <br>
 ➖️ Fill all info <br>
@@ -389,11 +389,11 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖️ Done <br>
 
 NFT Platform / Marketplace <br>
-1. Blocklive : https://blocklive.io/ <br>
-2. Moseiki : https://moseiki.app/ <br>
-3. Nfts2me : http://nfts2me.com/app/monad-testnet/ <br>
-4. Opensea : https://opensea.io/ <br>
-5. Magiceden : https://magiceden.io/mint-terminal/monad-testnet <br>
+1. Blocklive <a href="https://x.com/blocklive_" target="_blank">(@blocklive_)</a> : https://blocklive.io/ <br>
+2. Moseiki <a href="https://x.com/MoseikiApp" target="_blank">(@MoseikiApp)</a> : https://moseiki.app/ <br>
+3. Nfts2me <a href="https://x.com/NFTs2Me" target="_blank">(@NFTs2Me)</a> : http://nfts2me.com/app/monad-testnet/ <br>
+4. Opensea <a href="https://x.com/opensea" target="_blank">(@opensea)</a> : https://opensea.io/ <br>
+5. Magiceden <a href="https://x.com/MagicEden" target="_blank">(@MagicEden)</a> : https://magiceden.io/mint-terminal/monad-testnet <br>
 
 
 <br>
