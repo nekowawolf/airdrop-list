@@ -84,28 +84,28 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 
 <br>
 
-1. Ambient <br>
+1. Ambient <a href="https://x.com/ambient_finance" target="_blank">(@ambient_finance)</a> <br>
 ➡️ Go to : https://monad.ambient.finance/ <br>
 ➖ Swap MON > USDC > WETH > etc <br>
 ➖ Use Trade Feature <br>
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
-2. Apriori <br>
+2. Apriori <a href="https://x.com/apr_labs" target="_blank">(@apr_labs)</a> <br>
 ➡️ Go to : https://stake.apr.io/ <br>
 ➖ Claim Faucet <br>
 ➖ Staking 0.2 MON <br>
 ➖ Withdraw 25% After 5 Days <br>
 ➖ Done <br>
 
-3. Bean <br>
+3. Bean <a href="https://x.com/Bean_DEX" target="_blank">(@Bean_DEX)</a> <br>
 ➡️ Go to : https://perp.bean.exchange/#/trade <br>
 ➖ Trade Perps <br>
 ➖ Swap MON > USDC > WMON <br>
 ➖ Add Liquidity <br>
 ➖ Collect Bean <br>
 
-4. Bima <br>
+4. Bima <a href="https://x.com/BimaBTC" target="_blank">(@BimaBTC)</a> <br>
 ➡️ Go to : https://bima.money/vaults <br>
 ➖ Switch Monad Testnet <br>
 ➖ Claim Faucet <br>
@@ -113,49 +113,49 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Lend > Earn <br>
 ➖ Complete Quest <br>
 
-5. Blazpay <br>
+5. Blazpay <a href="https://x.com/blazpaylabs" target="_blank">(@blazpaylabs)</a> <br>
 ➡️ Go to : https://www.defi.blazpay.com/ <br>
 ➖ Chat with AI <br>
 ➖ Swap <br>
 ➖ Add Liquidity <br>
 
-6. Caddy <br>
+6. Caddy <a href="https://x.com/caddyfi" target="_blank">(@caddyfi)</a> <br>
 ➡️ Join Whitelist : https://caddy.finance/ <br>
 
-7. Curvance <br>
+7. Curvance <a href="https://x.com/Curvance" target="_blank">(@Curvance)</a> <br>
 ➡️ Claim All Faucet : https://monad.curvance.com/monad <br>
 ➖ Get CVE <br>
 ➖ Deposit > Lend > Borrow > Claim Reward <br>
 ➖ Repay <br>
 
-8. Izumi <br>
+8. Izumi <a href="https://x.com/izumi_Finance" target="_blank">(@izumi_Finance)</a> <br>
 ➡️ Go to : https://alpha.izumi.finance/trade/swap <br>
 ➖ Swap <br>
 ➖ Add Liquidity <br>
 ➖ Farm <br>
 ➖ Done <br>
 
-9. Kintsu <br>
+9. Kintsu <a href="https://x.com/Kintsu_xyz" target="_blank">(@Kintsu_xyz)</a> <br>
 ➡️ Stake MON : https://kintsu.xyz/staking <br>
 
-10. Kuru <br>
+10. Kuru <a href="https://x.com/KuruExchange" target="_blank">(@KuruExchange)</a> <br>
 ➡️ Go to : https://www.kuru.io/markets <br>
 ➖ Create Wallet <br>
 ➖ Trading Memecoin <br>
 ➖ Done <br>
 
-11. Magma <br>
+11. Magma <a href="https://x.com/MagmaStaking" target="_blank">(@MagmaStaking)</a> <br>
 ➡️ Go to : https://www.magmastaking.xyz/ <br>
 ➖ Staking MON <br>
 ➖ Done <br>
 
-12. Monorail <br>
+12. Monorail <a href="https://x.com/monorail_xyz" target="_blank">(@monorail_xyz)</a> <br>
 ➡️ Go to : https://monorail.xyz/ <br>
 ➖ Swap MON > Tokens <br>
 ➖ Swap Every Week <br>
 ➖ Done <br>
 
-13. Multipli <br>
+13. Multipli <a href="https://x.com/multiplifi" target="_blank">(@multiplifi)</a> <br>
 ➡️ Go to : https://dub.sh/multipli1 <br>
 ➖ Staking  USDT BEP20 <br>
 ➖ Done <br>
@@ -165,12 +165,12 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Stake Faucet 100 USDC & USDT <br>
 ➖ Done <br>
 
-14. NadFun <br>
+14. NadFun <a href="https://x.com/naddotfun" target="_blank">(@naddotfun)</a> <br>
 ➡️ Go to : https://testnet.nad.fun/ <br>
 ➖ Create Memecoin <br>
 ➖ Done <br>
 
-15. Narwhal <br>
+15. Narwhal <a href="https://x.com/Narwhal_Finance" target="_blank">(@Narwhal_Finance)</a> <br>
 ➡️ Go to : https://testnet.narwhal.finance <br>
 ➖ Connect Wallet <br>
 ➖ Get some USDT or aprMON for trade <br>
@@ -180,43 +180,43 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Play Carnival <br>
 ➖ Done <br>
 
-16. Nostra <br>
+16. Nostra <a href="https://x.com/nostrafinance" target="_blank">(@nostrafinance)</a> <br>
 ➡️ Go to : https://monad.nostra.finance/lend-borrow <br>
 ➖ Lend <br>
 ➖ Borrow <br>
 ➖ Swap <br>
 
-17. Opals <br>
+17. Opals <a href="https://x.com/Opals_io" target="_blank">(@Opals_io)</a> <br>
 ➡️ Go to : https://opals.io/create/project <br>
 ➖ Create NFTs <br>
 ➖ Done <br>
 
-18. Rubics <br>
+18. Rubics <a href="https://x.com/CryptoRubic" target="_blank">(@CryptoRubic)</a> <br>
 ➡️ Go to : https://testnet.rubic.exchange/ <br>
 ➖ Swap <br>
 ➖ Claim Faucet <br>
 
-19. Synnax <br>
+19. Synnax <a href="https://x.com/synnax_labs" target="_blank">(@Synnax_ai)</a> <br>
 ➡️ Go to : https://monad.synnax.fi/#/my-positions <br>
 ➖ Add Colateral <br>
 ➖ Mint syUSD <br>
 ➖ Done <br>
 
-20. Azaar <br>
+20. Azaar <a href="https://x.com/AzaarExchange" target="_blank">(@AzaarExchange)</a> <br>
 ➡️ Go to : https://app-monad-testnet.azaar.com/ <br>
 ➖ Connect Wallet <br>
 ➖ Mint Test Tokens  <br>
 ➖ Swap <br>
 ➖ Done <br>
 
-21. Pancakeswap <br>
+21. Pancakeswap <a href="https://x.com/PancakeSwap" target="_blank">(@PancakeSwap)</a> <br>
 ➡️ Go to : https://pancakeswap.finance/?chain=monadTestnet <br>
 ➖ Connect Wallet <br>
 ➖ Select Monad Tesnet <br>
 ➖ Swap MON to Any Token <br>
 ➖ Done <br>
 
-22. Uniswap <br>
+22. Uniswap <a href="https://x.com/Uniswap" target="_blank">(@Uniswap)</a> <br>
 ➡️ Go to : https://app.uniswap.org/swap <br>
 ➖ Connect Wallet <br>
 ➖ Toggle testnet mode  <br>
@@ -225,14 +225,14 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity <br>
 ➖ Done <br>
 
-23. Monadex <br>
+23. Monadex <a href="https://x.com/Bubblefi_xyz" target="_blank">(@Bubblefi_xyz)</a> <br>
 ➡️ Go to : https://app.monadex.exchange <br>
 ➖ Connect Wallet <br>
 ➖ Swap <br>
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
-24. FastLane <br>
+24. FastLane <a href="https://x.com/0xFastLane" target="_blank">(@0xFastLane)</a> <br>
 ➡️ Go to : https://www.shmonad.xyz/ <br>
 ➖ Connect Wallet <br>
 ➖ Stake MON Token <br>
@@ -240,14 +240,14 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Enter amount to commit <br>
 ➖ Done <br>
 
-25. Octo Swap <br> 
+25. Octo Swap <a href="https://x.com/OctoSwapDex" target="_blank">(@OctoSwapDex)</a> <br> 
 ➡️ Go to : https://octo.exchange/ <br>
 ➖ Connect Wallet <br>
 ➖ Swap MON to Test 2 or Test 1 or any other tokens <br>
 ➖ Add Liquidity <br>
 ➖ Done <br>
 
-26. Castora <br> 
+26. Castora <a href="https://x.com/Castora_xyz" target="_blank">(@Castora_xyz)</a> <br> 
 ➡️ Go to : https://castora.xyz <br>
 ➖ Connect Wallet <br>
 ➖ Click "Predict Now" <br>
@@ -256,7 +256,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Click "Join Pool" <br>
 ➖ Done <br>
 
-27. Madness <br> 
+27. Madness <a href="https://x.com/MadnessExchange" target="_blank">(@MadnessExchange)</a> <br> 
 ➡️ Go to : https://madness.finance/swap <br>
 ➖ Connect Wallet <br>
 ➖ Swap MON <br>
@@ -264,7 +264,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Open the task menu and complete the task <br>
 ➖ Done <br>
 
-28. Bebop <br> 
+28. Bebop <a href="https://x.com/bebop_dex" target="_blank">(@bebop_dex)</a> <br> 
 ➡️ Go to : https://bebop.xyz/trade?network=monad <br>
 ➖ Connect Wallet <br>
 ➖ Carry out some swaps (you can do MON to Weth cos of LP) <br>
@@ -273,14 +273,14 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ You can repeat this a few times  <br>
 ➖ Done <br>
 
-29. Mondafund <br> 
+29. Mondafund <a href="https://x.com/mondafund" target="_blank">(@mondafund)</a> <br> 
 ➡️ Go to : https://app.monda.fund/swap <br>
 ➖ Connect Wallet <br>
 ➖ Swap MON <br>
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
-30. Nitro Finance <br> 
+30. Nitro Finance <a href="https://x.com/NitroFinance" target="_blank">(@NitroFinance)</a> <br> 
 ➡️ Go to : https://testapp.nitrofinance.xyz/ <br>
 ➖ Connect Wallet <br>
 ➖ Click ‘Get NIT’ to claim some test tokens <br>
@@ -288,26 +288,26 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
-31. Mace Swap <br> 
+31. Mace Swap <a href="https://x.com/mace_ag" target="_blank">(@mace_ag)</a> <br> 
 ➡️ Go to : https://testnet.swaps.mace.ag/ <br>
 ➖ Connect Wallet <br>
 ➖ Swap $MON/WMON or any other assets <br>
 ➖ Done <br>
 
-32. Dirol Network <br> 
+32. Dirol Network <a href="https://x.com/DirolProtocol" target="_blank">(@DirolProtocol)</a> <br> 
 ➡️ Go to : https://dex.dirol.network/swap <br>
 ➖ Connect Wallet <br>
 ➖ Swap MON <br>
 ➖ Done <br>
 
-33. Crystal <br> 
+33. Crystal <a href="https://x.com/CrystalExch" target="_blank">(@CrystalExch)</a> <br> 
 ➡️ Go to : https://app.crystal.exchange/swap?ref=gmonad <br>
 ➖ Connect Wallet <br>
 ➖ Trade on basic or advanced view <br>
 ➖ Swap MON <br>
 ➖ Done <br>
 
-34. Likwid <br> 
+34. Likwid <a href="https://x.com/likwid_fi" target="_blank">(@likwid_fi)</a> <br> 
 ➡️ Go to : https://likwid.fi/trade <br>
 ➖ Connect Wallet <br>
 ➖ Swap MON <br>
@@ -316,7 +316,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
-35. zkSwap <br> 
+35. zkSwap <a href="https://x.com/zkSwap_finance" target="_blank">(@zkSwap_finance)</a> <br> 
 ➡️ Go to : https://www.zkswap.finance/swap?chain=monadTestnet <br>
 ➖ Connect Wallet <br>
 ➖ Navigate to Faucet and claim MOON faucet <br>
@@ -325,7 +325,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
-36. Atlantis <br> 
+36. Atlantis <a href="https://x.com/AtlantisDEX_xyz" target="_blank">(@AtlantisDEX_xyz)</a> <br> 
 ➡️ Go to : https://app.atlantisdex.xyz/ <br>
 ➖ Connect Wallet <br>
 ➖ Claim faucets (WBTC.a, WETH.a, USDT.a, USDC.a) <br>
@@ -334,7 +334,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Mint NFT (at least 20x swap) <br>
 ➖ Done <br>
 
-37. ApeBond <br> 
+37. ApeBond <a href="https://x.com/ApeBond" target="_blank">(@ApeBond)</a> <br> 
 ➡️ Go to : https://www.ape.bond/swap <br>
 ➖ Connect Wallet <br>
 ➖ Select the monad network <br>
