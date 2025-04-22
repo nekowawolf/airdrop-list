@@ -388,6 +388,13 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖️ Publish <br>
 ➖️ Done <br>
 
+7. Mon AI <a href="https://x.com/MonAIgg" target="_blank">(@MonAIgg)</a> <br>
+➡️ Go to : https://monai.gg/nft <br>
+➖ Connect Wallet <br>
+➖️ Complete all tasks <br>
+➖️ Mint NFT<br>
+➖️ Done <br>
+
 NFT Platform / Marketplace <br>
 1. Blocklive <a href="https://x.com/blocklive_" target="_blank">(@blocklive_)</a> : https://blocklive.io/ <br>
 2. Moseiki <a href="https://x.com/MoseikiApp" target="_blank">(@MoseikiApp)</a> : https://moseiki.app/ <br>
