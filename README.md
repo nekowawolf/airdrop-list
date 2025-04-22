@@ -395,6 +395,13 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖️ Mint NFT<br>
 ➖️ Done <br>
 
+9. ZNS <a href="https://x.com/ZNSConnect" target="_blank">(@ZNSConnect)</a> <br>
+➡️ Go to : https://zns.bio?ref=YWU1YTVjYz <br>
+➖ Connect Wallet <br>
+➖️ Switch network to Monad Testnet <br>
+➖️ Register your domain <br>
+➖️ Done <br>
+
 NFT Platform / Marketplace <br>
 1. Blocklive <a href="https://x.com/blocklive_" target="_blank">(@blocklive_)</a> : https://blocklive.io/ <br>
 2. Moseiki <a href="https://x.com/MoseikiApp" target="_blank">(@MoseikiApp)</a> : https://moseiki.app/ <br>
