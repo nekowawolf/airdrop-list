@@ -35,7 +35,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 <br>
 <br>
 
-![Monad](https://github.com/nekowawolf/airdrop-list/blob/main/img/monad-img/Faucet.png) <br>
+<img src="https://raw.githubusercontent.com/nekowawolf/airdrop-list/main/img/monad-img/Faucet.png" alt="Monad" width="400"> <br>
 
 <br>
 
@@ -80,7 +80,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 <br>
 <br>
 
-![Monad](https://github.com/nekowawolf/airdrop-list/blob/main/img/monad-img/Dex.png) <br>
+<img src="https://raw.githubusercontent.com/nekowawolf/airdrop-list/main/img/monad-img/Dex.png" alt="Monad" width="400"> <br>
 
 <br>
 
@@ -344,7 +344,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 <br>
 <br>
 
-![Monad](https://github.com/nekowawolf/airdrop-list/blob/main/img/monad-img/NFT.png) <br>
+<img src="https://raw.githubusercontent.com/nekowawolf/airdrop-list/main/img/monad-img/NFT.png" alt="Monad" width="400"> <br>
 
 <br>
 
@@ -413,7 +413,7 @@ NFT Platform / Marketplace <br>
 <br>
 <br>
 
-![Monad](https://github.com/nekowawolf/airdrop-list/blob/main/img/monad-img/Testnet.png) <br>
+<img src="https://raw.githubusercontent.com/nekowawolf/airdrop-list/main/img/monad-img/Testnet.png" alt="Monad" width="400"> <br>
 
 <br>
 
