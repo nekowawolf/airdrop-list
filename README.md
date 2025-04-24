@@ -257,7 +257,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Done <br>
 
 27. Madness <a href="https://x.com/MadnessExchange" target="_blank">(@MadnessExchange)</a> <br> 
-➡️ Go to : https://madness.finance/swap <br>
+➡️ Go to : https://madness.finance/exp?ref=LLCA02 <br>
 ➖ Connect Wallet <br>
 ➖ Swap MON <br>
 ➖ Add Liquidity Pool <br>
