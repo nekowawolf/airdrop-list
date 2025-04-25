@@ -504,3 +504,11 @@ NFT Platform / Marketplace <br>
 ➖ Select a creator you want to bet <br>
 ➖ Done <br>
 
+13. Alloca <a href="https://x.com/alloca_xyz">(@alloca_xyz)</a> <br>
+➡️ Go to : https://www.monad.tools/tools/token-creator <br>
+➖ Connect Wallet <br>
+➖ Enter token details (supply, name, symbol) <br>
+➖ Click create token <br>
+➖ Confirm transaction in wallet <br>
+➖ Done <br>
+
