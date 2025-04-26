@@ -341,6 +341,13 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Swap MON <br>
 ➖ Done <br>
 
+38. Meowfi <a href="https://x.com/MeowFi_" target="_blank">(@MeowFi_)</a> <br> 
+➡️ Go to : https://app.meowfi.xyz/?ref=nekosh <br>
+➖ Connect Wallet <br>
+➖ Stake $MON to $shMON on https://www.shmonad.xyz/<br>
+➖ SDeposit $shMON (min 50 $shMON)
+➖ Done <br>
+
 <br>
 <br>
 
