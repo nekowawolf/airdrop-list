@@ -345,7 +345,7 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➡️ Go to : https://app.meowfi.xyz/?ref=nekosh <br>
 ➖ Connect Wallet <br>
 ➖ Stake $MON to $shMON on https://www.shmonad.xyz/<br>
-➖ SDeposit $shMON (min 50 $shMON)
+➖ SDeposit $shMON (min 50 $shMON)  <br>
 ➖ Done <br>
 
 <br>
