@@ -3,14 +3,14 @@ Here is a comprehensive guide to get started.
 
 ## Monad Fundraise <br>
 
-<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> 
+<a href="https://x.com/monad_xyz" target="_blank">Monad</a> 
 Monad Lab has successfully raised $225 million in a funding round spearheaded by Paradigm.<br>
 
 The investment round also attracted contributions from distinguished firms such as Electric Capital, Coinbase Ventures, Castle Island Ventures, GSR Ventures, and Greenoaks. Additionally, prominent angel investors like Inversebrah, Ansem, Hsaka, punk6529, Eric Wall, Rune Christensen, Bryan Pellegrino, Luca Netz, and Mert Mumtaz participated,<br>
 
 ## About Monad
 
-<a href="https://x.com/monad_xyz" target="_blank">@monad_xyz</a> is building an Ethereum virtual machine (EVM)-compatible Layer 1 blockchain designed to improve the overall Ethereum ecosystem. <br>
+<a href="https://x.com/monad_xyz" target="_blank">Monad</a> is building an Ethereum virtual machine (EVM)-compatible Layer 1 blockchain designed to improve the overall Ethereum ecosystem. <br>
 
 Monad enables parallel execution for EVM transactions that don’t have common dependencies. That is, transactions and blocks are still linearly ordered; Monad simply identifies transactions within that linear ordering that can be executed in parallel without disruption to the outcome. This allows Monad to process transactions more efficiently without disrupting app developers. Apps originally written for Ethereum and deployed on Monad will still work the same way. <br>
 
