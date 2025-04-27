@@ -8,7 +8,7 @@ The investment round also attracted contributions from distinguished firms such 
 
 ## About MegaETH
 
-<a href="https://x.com/megaeth_labs" target="_blank">(MegaETH)</a> is a Layer 2 blockchain designed to enhance the scalability and performance of Ethereum by enabling real-time transaction processing. It is compatible with the Ethereum Virtual Machine (EVM). MegaETH aims to achieve unprecedented performance levels, capable of processing over 100,000 transactions per second (TPS). <br>
+<a href="https://x.com/megaeth_labs" target="_blank">MegaETH</a> is a Layer 2 blockchain designed to enhance the scalability and performance of Ethereum by enabling real-time transaction processing. It is compatible with the Ethereum Virtual Machine (EVM). MegaETH aims to achieve unprecedented performance levels, capable of processing over 100,000 transactions per second (TPS). <br>
 
 The architecture of MegaETH is modular, utilizing a specialized node structure that includes sequencers, provers, and full nodes. This design allows for distinct roles within the network, optimizing transaction ordering and execution while maintaining high throughput and low latency. The sequencer nodes handle transaction ordering, while provers generate computational proofs, and full nodes confirm the updated state of the network  <br>
 
