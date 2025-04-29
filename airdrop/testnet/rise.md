@@ -99,6 +99,27 @@ Community List : https://nekowawolf.xyz/community-list
 ➖ Create NFT <br>
 ➖ Done <br>
 
+2. Omni <a href="https://x.com/omni_hub">(@Omni_Hub)</a> <br>
+➡️ Go to : https://omnihub.xyz/ <br>
+➖ Connect wallet <br>
+➖ Create NFT <br>
+➖ Mint NFT <br>
+➖ Done <br>
+
+3. Velox <a href="https://x.com/r_velox">(@r_velox)</a> <br>
+➡️ Go to : https://veloxr.xyz/ <br>
+➖ Connect wallet <br>
+➖ Create NFT <br>
+➖ Trade NFT <br>
+➖ Done <br>
+
+4. Velox <a href="https://x.com/r_velox">(@r_velox)</a> <br>
+➡️ Go to : https://veloxr.xyz/ <br>
+➖ Connect wallet <br>
+➖ Create NFT <br>
+➖ Trade NFT <br>
+➖ Done <br>
+
 
 
 
