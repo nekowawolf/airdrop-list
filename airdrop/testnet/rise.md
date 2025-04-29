@@ -113,14 +113,6 @@ Community List : https://nekowawolf.xyz/community-list
 ➖ Trade NFT <br>
 ➖ Done <br>
 
-4. Velox <a href="https://x.com/r_velox">(@r_velox)</a> <br>
-➡️ Go to : https://veloxr.xyz/ <br>
-➖ Connect wallet <br>
-➖ Create NFT <br>
-➖ Trade NFT <br>
-➖ Done <br>
-
-
 
 
 <br>
