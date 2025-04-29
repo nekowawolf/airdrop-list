@@ -133,7 +133,7 @@ Community List : https://nekowawolf.xyz/community-list
 ➖ Connect wallet <br>
 ➖ Play game  <br>
 ➖ Complete the quest and leveling up <br>
-➖ Done <br> C
+➖ Done <br> 
 
 
 
