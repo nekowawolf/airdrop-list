@@ -344,8 +344,17 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 38. Meowfi <a href="https://x.com/MeowFi_" target="_blank">(@MeowFi_)</a> <br> 
 ➡️ Go to : https://app.meowfi.xyz/?ref=nekosh <br>
 ➖ Connect Wallet <br>
-➖ Stake $MON to $shMON on https://www.shmonad.xyz/<br>
-➖ SDeposit $shMON (min 50 $shMON)  <br>
+➖ Stake $MON to $shMON on https://www.shmonad.xyz/ <br>
+➖ Deposit $shMON (min 50 $shMON) <br>
+➖ Done <br>
+
+39. Crust <a href="https://x.com/CrustFinance" target="_blank">(@CrustFinance)</a> <br> 
+➡️ Go to : https://testnet.crust.finance/swap <br>
+➖ Connect Wallet <br>
+➖ Swap MON <br>
+➖ Add Liquidity Pool <br>
+➖ Add Vaults <br>
+➖ Participate in campaigns <br>
 ➖ Done <br>
 
 <br>
