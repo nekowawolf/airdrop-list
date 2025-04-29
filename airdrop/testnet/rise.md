@@ -67,8 +67,20 @@ Community List : https://nekowawolf.xyz/community-list
 ➖ Swap <br>
 ➖ Done <br>
 
+3. B3xai <a href="https://x.com/b3xai" target="_blank">(@b3xai)</a> <br>
+➡️ Go to : https://testnet.b3x.ai/#/trade <br>
+➖ Connect wallet <br>
+➖ Claim Faucet <br>
+➖ Trade long/short <br>
+➖ Done <br>
 
-
+4. Inari <a href="https://x.com/inari_fi" target="_blank">(@inari_fi)</a> <br>
+➡️ Go to : https://www.inarifi.com/ <br>
+➖ Connect wallet <br>
+➖ Deposit <br>
+➖ Borrow <br>
+➖ Repay <br>
+➖ Done <br>
 
 
 
