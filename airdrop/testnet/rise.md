@@ -130,8 +130,18 @@ Community List : https://nekowawolf.xyz/community-list
 
 <br>
 
+1. Netsepio <a href="https://x.com/netsepio" target="_blank">(@NetSepio)</a> <br>
+➡️ Go to : https://netsepio.com/ <br>
+➖ Download app/extansion <br>
+➖ Try the app <br>
+➖ Done <br>
 
-
+2. FTK <a href="https://x.com/4thekingdom_xyz" target="_blank">(@4thekingdom_xyz)</a> <br>
+➡️ Go to : https://forthekingdom.xyz/ <br>
+➖ Connect wallet <br>
+➖ Play game  <br>
+➖ Complete the quest and leveling up <br>
+➖ Done <br> C
 
 
 
