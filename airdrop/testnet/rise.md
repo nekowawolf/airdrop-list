@@ -25,6 +25,11 @@ Community List : https://nekowawolf.xyz/community-list
 ➡️ Explorer : https://explorer.testnet.riselabs.xyz/ <br> 
 ➡️ Track Rise TX : (N/A) <br> 
 
+➡️ X : https://x.com/rise_chain <br> 
+➡️ Discord : https://discord.com/invite/risechain <br> 
+➡️ Website : https://portal.risechain.com/ <br> 
+➡️ Guild : https://guild.xyz/rise-chain <br> 
+
 <br>
 <br>
 
@@ -32,8 +37,11 @@ Community List : https://nekowawolf.xyz/community-list
 
 <br>
 
+1. Rise <a href="https://x.com/rise_chain" target="_blank">(@rise_chain)</a> <br>
+➡️ Go to : https://faucet.testnet.riselabs.xyz/ <br>
 
-
+2. Rise <a href="https://x.com/rise_chain" target="_blank">(@rise_chain)</a> <br>
+➡️ Go to : https://portal.risechain.com/ <br>
 
 
 
@@ -45,6 +53,19 @@ Community List : https://nekowawolf.xyz/community-list
 
 <br>
 
+
+1. Gas pump <a href="https://x.com/zer0_dex" target="_blank">(@Gaspump_swap)</a> <br>
+➡️ Go to : https://x.com/Gaspump_swap <br>
+➖ Connect wallet <br>
+➖ Swap <br>
+➖ Add Liquidity <br>
+➖ Done <br>
+
+2. Clober <a href="https://x.com/CloberDEX" target="_blank">(@CloberDEX)</a> <br>
+➡️ Go to : https://rise.clober.io/trade <br>
+➖ Connect wallet <br>
+➖ Swap <br>
+➖ Done <br>
 
 
 
@@ -60,8 +81,11 @@ Community List : https://nekowawolf.xyz/community-list
 <br>
 
 
-
-
+1. NFTs2me <a href="https://x.com/NFTs2Me">(@NFTs2Me)</a> <br>
+➡️ Go to : https://nfts2me.com/app/rise-testnet/ <br>
+➖ Connect wallet <br>
+➖ Create NFT <br>
+➖ Done <br>
 
 
 
