@@ -519,3 +519,11 @@ NFT Platform / Marketplace <br>
 ➖ Confirm transaction in wallet <br>
 ➖ Done <br>
 
+14. Dusted <a href="https://x.com/dusted_app">(@dusted_app)</a> <br>
+➡️ Go to : https://www.dusted.app/?referralCode=2ZWNZLS1 <br>
+➖ Connect Wallet <br>
+➖ Join group <br>
+➖ Go to profile and connet X <br>
+➖ Play lasso <br>
+➖ Done <br>
+
