@@ -24,6 +24,11 @@ Community List : https://nekowawolf.xyz/community-list
 ➡️ Explorer : https://www.megaexplorer.xyz/ <br> 
 ➡️ Track MegaETH TX : https://layerhub.xyz/search?p=megaeth_testnet <br> 
 
+➡️ X : https://x.com/megaeth_labs <br> 
+➡️ Discord : https://discord.com/invite/megaeth <br> 
+➡️ Website : https://www.megaeth.com/ <br>
+➡️ Telegram : https://t.me/megaeth_labs <br>
+
 <br>
 <br>
 
