@@ -31,6 +31,11 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➡️ Explorer : https://testnet.monadexplorer.com <br>
 ➡️ Track Monad TX : https://layerhub.xyz/search?p=monad_testnet, https://cryptowalletsx.com/monad-testnet <br>
 
+➡️ X : https://x.com/monad_xyz <br> 
+➡️ Discord : https://discord.com/invite/monad <br> 
+➡️ Website : https://www.monad.xyz/ <br> 
+
+
 
 <br>
 <br>
