@@ -50,6 +50,13 @@ Community List : https://nekowawolf.xyz/community-list
 
 <br>
 
+1. Teko <a href="https://x.com/tekofinance" target="_blank">(@tekofinance)</a> <br>
+➡️ Go to : https://testnet.teko.finance/ <br>
+➖ Connect wallet <br>
+➖ Claim all 4 test tokens <br>
+➖ Lend <br>
+➖ Borrow  <br>
+➖ Done <br>
 
 
 
