@@ -65,5 +65,9 @@ Community List : https://nekowawolf.xyz/community-list
 
 <br>
 
-
+1. Cap <a href="https://x.com/capmoney_" target="_blank">(@capmoney_)</a> <br>
+➡️ Go to : https://cap.app/testnet <br>
+➖ Connect wallet <br>
+➖ Mint testnet-cUSD <br>
+➖ Done <br>
 
