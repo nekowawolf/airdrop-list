@@ -58,6 +58,19 @@ Community List : https://nekowawolf.xyz/community-list
 ➖ Borrow  <br>
 ➖ Done <br>
 
+2. Bebop <a href="https://x.com/bebop_dex" target="_blank">(@bebop_dex)</a> <br> 
+➡️ Go to : https://bebop.xyz/trade?network=megaeth&buy= <br>
+➖ Connect wallet <br>
+➖ Swap MegaETH testnet token <br>
+➖ Done <br>
+
+3. GTE <a href="https://x.com/GTE_XYZ" target="_blank">(@GTE_XYZ)</a> <br>
+➡️ Go to : https://testnet.gte.xyz/ <br>
+➖ Connect wallet <br>
+➖ Buy/Sell testnet token <br>
+➖ Swap <br>
+➖ Add Liquidity Pool <br>
+➖ Done <br>
 
 
 
@@ -68,6 +81,13 @@ Community List : https://nekowawolf.xyz/community-list
 
 <br>
 
+1. Rarible <a href="https://x.com/rarible" target="_blank">(@rarible)</a> <br>
+➡️ Go to : https://testnet.rarible.fun/ <br>
+➖ Connect wallet <br>
+➖ Mint NFT <br>
+➖ Buy NFT <br>
+➖ Sell NFT  <br>
+➖ Done <br>
 
 
 <br>
@@ -82,4 +102,12 @@ Community List : https://nekowawolf.xyz/community-list
 ➖ Connect wallet <br>
 ➖ Mint testnet-cUSD <br>
 ➖ Done <br>
+
+2. RainMakr <a href="https://x.com/RainMakr_xyz" target="_blank">(@RainMakr_xyz)</a> <br>
+➡️ Go to : https://rainmakr.xyz/en/rainai <br>
+➖ Connect wallet <br>
+➖ Create AI agents <br>
+➖ Buy/Sell AI agents <br>
+➖ Done <br>
+
 
