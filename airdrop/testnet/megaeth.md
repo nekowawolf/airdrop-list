@@ -89,6 +89,13 @@ Community List : https://nekowawolf.xyz/community-list
 ➖ Sell NFT  <br>
 ➖ Done <br>
 
+2. Superboard <a href="https://x.com/Superboard_" target="_blank">(@Superboard_)</a> <br>
+➡️ Go to : https://superboard.xyz/quests/mint-onchain-velocity-on-megaeth <br>
+➖ Connect wallet <br>
+➖ Complete social task <br>
+➖ Claim rewards <br>
+➖ Done <br>
+
 
 <br>
 <br>
