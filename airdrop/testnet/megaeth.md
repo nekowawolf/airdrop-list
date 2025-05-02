@@ -110,4 +110,12 @@ Community List : https://nekowawolf.xyz/community-list
 ➖ Buy/Sell AI agents <br>
 ➖ Done <br>
 
+3. Crossy flufle <a href="https://x.com/megaeth_labs" target="_blank">(@megaeth_labs)</a> <br>
+➡️ Go to : https://game.megaeth.com/crossy-fluffle <br>
+➖ Connect wallet <br>
+➖ Select Megaeth network <br>
+➖ Play game <br>
+➖ Done <br>
+
+
 
