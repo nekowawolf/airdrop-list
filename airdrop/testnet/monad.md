@@ -470,45 +470,39 @@ NFT Platform / Marketplace <br>
 ➖ Play yapmonad with ENC tokens and earn points! <br>
 ➖ Weekly point updates are based on your game scores <br>
 
-5. SkyTrade  <a href="https://x.com/SkyTradeNetwork" target="_blank">(@SkyTradeNetwork)</a> <br>
-➡️ Go to : https://app.sky.trade/ <br>
-➖ Claim AI Handle <br>
-➖ Explore <br>
-➖ Done <br>
-
-6. Fantasy <a href="https://x.com/fantasy_top_" target="_blank">(@fantasy_top_)</a> <br>
+5. Fantasy <a href="https://x.com/fantasy_top_" target="_blank">(@fantasy_top_)</a> <br>
 ➡️ Go to : https://monad.fantasy.top?ref=IOQFM37H <br> 
 ➖ Claim NFT <br>
 ➖ Play  <br>
 ➖ Done <br>
 
-7. Pingu Futures <a href="https://x.com/PinguExchange" target="_blank">(@PinguExchange)</a> <br>
+6. Pingu Futures <a href="https://x.com/PinguExchange" target="_blank">(@PinguExchange)</a> <br>
 ➡️ Go to : https://pingu.exchange/trade <br> 
 ➖ Entry With Monad Testnet <br>
 ➖ Take Profit  <br>
 ➖ Done <br>
 
-8. Break Monad <a href="https://x.com/monad_xyz" target="_blank">(@monad_xyz)</a> <br>
+7. Break Monad <a href="https://x.com/monad_xyz" target="_blank">(@monad_xyz)</a> <br>
 ➡️ Go to : https://testnet.monad.xyz/break-monad <br>
 ➖ Connect Wallet <br>
 ➖ Scroll down to the list of games <br>
 ➖ Start playing <br>
 
-9. Fukunad <a href="" target="_blank">(N/A)</a> <br>
+8. Fukunad <a href="" target="_blank">(N/A)</a> <br>
 ➡️ Go to : https://testnet.fukunad.xyz?ref=fA9Ff5-m8kgtg69 <br>
 ➖ Connect Wallet <br>
 ➖ Open the raffle menu <br>
 ➖ Deposit MON <br>
 ➖ Done <br>
 
-10. Monadscores <a href="https://x.com/monadscores_xyz" target="_blank">(@monadscores_xyz)</a> <br>
+9. Monadscores <a href="https://x.com/monadscores_xyz" target="_blank">(@monadscores_xyz)</a> <br>
 ➡️ Go to : https://monadscore.xyz/signup/r/08gSR3vm <br>
 ➖ Connect Wallet <br>
 ➖ Click on run node and sign the transaction <br>
 ➖ Navigate to tasks and connect x, then complete all tasks <br>
 ➖ Done <br>
 
-11. Zona <a href="https://x.com/zona_io" target="_blank">(@zona_io)</a> <br>
+10. Zona <a href="https://x.com/zona_io" target="_blank">(@zona_io)</a> <br>
 ➡️ Go to : https://app.zona.finance/trade <br>
 ➖ Connect Wallet <br>
 ➖ BetFI Real Estate market  <br>
@@ -518,14 +512,14 @@ NFT Platform / Marketplace <br>
 ➖ Confirm your prediction  <br>
 ➖ Done <br>
 
-12. Kizzy <a href="https://x.com/kizzymobile">(@kizzymobile)</a> <br>
+11. Kizzy <a href="https://x.com/kizzymobile">(@kizzymobile)</a> <br>
 ➡️ Go to : https://testnet.kizzy.io/login <br>
 ➖ Sign up with Gmail or Discord (Use code: GKIZZY) <br>
 ➖ Claim Keso daily from your profile <br>
 ➖ Select a creator you want to bet <br>
 ➖ Done <br>
 
-13. Alloca <a href="https://x.com/alloca_xyz">(@alloca_xyz)</a> <br>
+12. Alloca <a href="https://x.com/alloca_xyz">(@alloca_xyz)</a> <br>
 ➡️ Go to : https://www.monad.tools/tools/token-creator <br>
 ➖ Connect Wallet <br>
 ➖ Enter token details (supply, name, symbol) <br>
@@ -533,7 +527,7 @@ NFT Platform / Marketplace <br>
 ➖ Confirm transaction in wallet <br>
 ➖ Done <br>
 
-14. Dusted <a href="https://x.com/dusted_app">(@dusted_app)</a> <br>
+13. Dusted <a href="https://x.com/dusted_app">(@dusted_app)</a> <br>
 ➡️ Go to : https://www.dusted.app/?referralCode=2ZWNZLS1 <br>
 ➖ Connect Wallet <br>
 ➖ Join group <br>
