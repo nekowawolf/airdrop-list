@@ -519,7 +519,7 @@ NFT Platform / Marketplace <br>
 ➖ Done <br>
 
 12. Kizzy <a href="https://x.com/kizzymobile">(@kizzymobile)</a> <br>
-➡️ Go to : testnet.kizzy.io/login <br>
+➡️ Go to : https://testnet.kizzy.io/login <br>
 ➖ Sign up with Gmail or Discord (Use code: GKIZZY) <br>
 ➖ Claim Keso daily from your profile <br>
 ➖ Select a creator you want to bet <br>
