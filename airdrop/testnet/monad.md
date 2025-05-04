@@ -376,6 +376,13 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Try integrations with $muBOND on dapps <br>
 ➖ Done <br>
 
+42. Amertis <a href="https://x.com/AmertisExchange" target="_blank">(@AmertisExchange)</a> <br> 
+➡️ Go to : https://testnet.amertis.exchange/ <br>
+➖ Connect Wallet <br>
+➖ Swap <br>
+➖ Bridge <br>
+➖ Done <br>
+
 <br>
 <br>
 
