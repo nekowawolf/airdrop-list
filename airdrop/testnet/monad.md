@@ -362,6 +362,13 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Participate in campaigns <br>
 ➖ Done <br>
 
+40. Enjoyoors <a href="https://x.com/enjoyoorsxyz" target="_blank">(@enjoyoorsxyz)</a> <br> 
+➡️ Go to : https://app.enjoyoors.xyz/monad/join/59CHipBvzW <br>
+➖ Connect Wallet <br>
+➖ Complete galxe task <br>
+➖ Stake asset (shMON, WMON, stMON, etc) <br>
+➖ Done <br>
+
 <br>
 <br>
 
