@@ -383,6 +383,14 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Bridge <br>
 ➖ Done <br>
 
+43. Purps <a href="https://x.com/PurpsExchange" target="_blank">(@PurpsExchange)</a> <br> 
+➡️ Go to : https://app.purps.xyz/swap <br>
+➖ Connect Wallet <br>
+➖ Swap MON <br>
+➖ Add Liquidity Pool <br>
+➖ Stake MON <br>
+➖ Done <br>
+
 <br>
 <br>
 
