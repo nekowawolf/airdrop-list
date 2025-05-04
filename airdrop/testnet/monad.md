@@ -369,6 +369,13 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Stake asset (shMON, WMON, stMON, etc) <br>
 ➖ Done <br>
 
+41. MuDigitalHQ <a href="https://x.com/MuDigitalHQ" target="_blank">(@MuDigitalHQ)</a> <br> 
+➡️ Go to : https://testnet.mudigital.net/ <br>
+➖ Connect Wallet <br>
+➖ Mint $muBOND <br>
+➖ Try integrations with $muBOND on dapps <br>
+➖ Done <br>
+
 <br>
 <br>
 
