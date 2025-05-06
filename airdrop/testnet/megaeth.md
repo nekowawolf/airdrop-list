@@ -72,6 +72,13 @@ Community List : https://nekowawolf.xyz/community-list
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
+4. Concero <a href="https://x.com/concero_io" target="_blank">(@concero_io)</a> <br>
+➡️ Go to : https://testnet.gte.xyz/ <br>
+➖ Connect wallet <br>
+➖ Fill out the form if you don't have access: https://docs.google.com/forms/d/e/1FAIpQLSeaNVBHTszRjBIjMBkuXZPCNzF_EKvfmX5qLEgBTUiVcG5yhA/viewform <br>
+➖ Swap <br>
+➖ Done <br>
+
 
 
 <br>
