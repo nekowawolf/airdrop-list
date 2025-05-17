@@ -391,6 +391,14 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Stake MON <br>
 ➖ Done <br>
 
+44. LFJ <a href="https://x.com/LFJ_gg" target="_blank">(@LFJ_gg)</a> <br> 
+➡️ Go to : https://pandaria.lfj.gg/ <br>
+➖ Connect Wallet <br>
+➖ Trade <br>
+➖ Swap <br>
+➖ Add Liquidity Pool <br>
+➖ Done <br>
+
 <br>
 <br>
 
