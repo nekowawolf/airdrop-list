@@ -399,6 +399,15 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Add Liquidity Pool <br>
 ➖ Done <br>
 
+45. Pingu <a href="https://x.com/PinguExchange" target="_blank">(@PinguExchange)</a> <br> 
+➡️ Go to : https://crystal.exchange/market <br>
+➖ Connect Wallet <br>
+➖ Swap MON to Pingu <br>
+➖ Go to : https://pingu.exchange/stake <br>
+➖ Connect Wallet <br>
+➖ Stake Pingu <br>
+➖ Done <br>
+
 <br>
 <br>
 
