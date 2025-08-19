@@ -581,3 +581,9 @@ NFT Platform / Marketplace <br>
 ➖ Play lasso <br>
 ➖ Done <br>
 
+14. Monad Card <a href="https://x.com/monad">(@monad)</a> <br>
+➡️ Go to : https://cards.monad.xyz/
+➖ Connect X account
+➖ Check Eligibility
+➖ Done
+
