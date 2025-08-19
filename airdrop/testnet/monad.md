@@ -582,8 +582,8 @@ NFT Platform / Marketplace <br>
 ➖ Done <br>
 
 14. Monad Card <a href="https://x.com/monad">(@monad)</a> <br>
-➡️ Go to : https://cards.monad.xyz/
-➖ Connect X account
-➖ Check Eligibility
-➖ Done
+➡️ Go to : https://cards.monad.xyz/ <br>
+➖ Connect X account <br>
+➖ Check Eligibility <br>
+➖ Done <br>
 
