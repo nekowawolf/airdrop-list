@@ -587,3 +587,12 @@ NFT Platform / Marketplace <br>
 ➖ Check Eligibility <br>
 ➖ Done <br>
 
+15. Lumiterra <a href="https://x.com/LumiterraGame">(@LumiterraGame)</a> <br>
+➡️ Go to: https://gmonad.lumiterra.net/lumonad <br>
+➖ Connect Wallet <br> 
+➖ Claim 1 Lemon per day <br>
+➖ Track your progress toward unlocking costume pieces <br>
+➖ Hold required NFTs/tokens for special costumes <br>
+➖ Once unlocked, costumes are usable in-game <br>
+➖ Done <br>
+
