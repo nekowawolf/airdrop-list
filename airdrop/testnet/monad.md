@@ -596,3 +596,14 @@ NFT Platform / Marketplace <br>
 ➖ Once unlocked, costumes are usable in-game <br>
 ➖ Done <br>
 
+16. Nad or No Nad <a href="https://x.com/MagmaStaking" target="_blank">(@MagmaStaking)</a> <br>
+➡️ Go to: https://nad.magmastaking.xyz <br>
+➖ Connect Wallet <br> 
+➖ Fund the game with 1 gMON / 10 gMON / 100 gMON <br>
+➖ Open vaults to reveal prize values <br>
+➖ Banker will make offers (Deal or No Deal) <br>
+➖ Accept = Take the Banker’s gMON offer <br>
+➖ Decline = Continue until the last vault <br>
+➖ You’ll always get a prize in gMON at the end <br>
+➖ Done <br>
+
