@@ -607,3 +607,11 @@ NFT Platform / Marketplace <br>
 ➖ You’ll always get a prize in gMON at the end <br>
 ➖ Done <br>
 
+17. ChogNFT <a href="https://x.com/ChogNFT" target="_blank">(@ChogNFT)</a> <br>
+➡️ Go to : https://mint.chog.xyz <br>
+➖ Mint your SBT <br>
+➡️ Go to : https://chogtober.chog.xyz <br>
+➖ Connect your Wallet & Socials <br>
+➖ Navigate to the Projects section <br>
+➖ Complete available tasks <br>
+➖ Done ✅ <br>
