@@ -408,6 +408,15 @@ Credit List : <a href="https://x.com/wassupmonad" target="_blank">@wassupmonad</
 ➖ Stake Pingu <br>
 ➖ Done <br>
 
+46. Blockstreet <a href="https://x.com/BlockSt_HQ" target="_blank">(@BlockSt_HQ)</a> <br> 
+➡️ Go to : https://blockstreet.money/dashboard?invite_code=eYuZGa <br>
+➖ Connect wallet <br>
+➖ Swap $MON to $BSD <br>
+➖ Buy stocks using $BSD <br>
+➖ Borrow & Supply assets <br> 
+➖ Invite friends & earn daily BSD <br>
+➖ Done <br>
+
 <br>
 <br>
 
